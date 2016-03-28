@@ -1,0 +1,6 @@
+c:\users\isaac\documents\visual studio 2013\Projects\YHaplogroup\YHaplogroup\bin\Debug\YHaplogroup.exe.config
+C:\Users\Isaac\documents\visual studio 2013\Projects\YHaplogroup\YHaplogroup\bin\Debug\YHaplogroup.exe
+C:\Users\Isaac\documents\visual studio 2013\Projects\YHaplogroup\YHaplogroup\bin\Debug\YHaplogroup.pdb
+C:\Users\Isaac\documents\visual studio 2013\Projects\YHaplogroup\YHaplogroup\obj\Debug\YHaplogroup.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\documents\visual studio 2013\Projects\YHaplogroup\YHaplogroup\obj\Debug\YHaplogroup.exe
+C:\Users\Isaac\documents\visual studio 2013\Projects\YHaplogroup\YHaplogroup\obj\Debug\YHaplogroup.pdb
